@@ -1,0 +1,2 @@
+- Training data and ground truth labels saved locally
+- Too large for non-enterprise GitHub accounts
